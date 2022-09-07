@@ -1,0 +1,71 @@
+body {
+  height: 100%;
+  font-family: arial;
+  background-color: rgb(253, 253, 253);
+}
+
+.periodic-table {
+  clear: both;
+  margin: 10px auto;
+}
+.atomic-number-2 {
+  font-size: 10px;
+}
+.periodic-table .simbolo {
+  font-size: 19px;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.periodic-table td {
+  border: 4px solid transparent;
+  float: left;
+  height: 52px;
+  margin: 0.5px;
+  padding: 4px;
+  width: 49px;
+}
+
+.o {
+  background: #d8d8d8;
+}
+
+.nao-metal {
+  background: #d17326;
+}
+
+.gas-nobre {
+  background: #f011dd;
+}
+
+.halogenios {
+  background: #d8d22c;
+}
+
+.metal-alcalino {
+  background: #d12f2f;
+}
+
+.metais-de-transicao {
+  background: #7cd441;
+}
+
+.semimetais {
+  background: #deee53;
+}
+
+.metais-alcalinos-terrosos {
+  background: #ffa34c;
+}
+
+.metais-de-pos-transicao {
+  background: #db7bdf;
+}
+
+.lantanideos {
+  background: #116dd6;
+}
+
+.actinidios {
+  background: #5c98f3;
+}
